@@ -2,4 +2,4 @@
 
 My first Repository on github
 
-I love :coffee :Pizza
+I love :coffee
